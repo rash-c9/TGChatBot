@@ -7,7 +7,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/CyberBoyAyush/TGChatBot)
 
 # Deploy
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CyberBoyAyush/TGChatBot/tree/master)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rash-c9/TGChatBot/tree/master)
 
 # Normal Way
 ```python3
@@ -19,7 +19,7 @@ python3 -m chatrobot
       or 
 python -m chatrobot
 ```
-# Get Some Help (Btw Its Easy To Deploy)
+# Get Some Help (Btw Its Easy To Deploy) <- the real owner
 * [CyberBoyAyush](https://telegram.me/CyberBoyAyush)
 * [Contact Us Bot](https://telegram.me/cyberboyayushbot)
 
